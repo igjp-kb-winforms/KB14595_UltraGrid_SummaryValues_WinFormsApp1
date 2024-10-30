@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KB14595_UltraGrid_SummaryValues_WinFormsApp1", "KB14595_UltraGrid_SummaryValues_WinFormsApp1\KB14595_UltraGrid_SummaryValues_WinFormsApp1.csproj", "{685B38C8-7298-415E-804C-D51398735579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{685B38C8-7298-415E-804C-D51398735579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685B38C8-7298-415E-804C-D51398735579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685B38C8-7298-415E-804C-D51398735579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685B38C8-7298-415E-804C-D51398735579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01FD0A6C-021B-4CC0-98B8-37A11AC5457F}
+	EndGlobalSection
+EndGlobal

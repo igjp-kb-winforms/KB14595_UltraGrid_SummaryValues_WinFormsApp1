@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Infragistics.WinForms.WinGrid" Version="24.1.57" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\NIshibashi\Cases\KB\14595\KB14595_UltraGrid_SummaryValues_WinFormsApp1\KB14595_UltraGrid_SummaryValues_WinFormsApp1\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\NIshibashi\Cases\KB\14595\KB14595_UltraGrid_SummaryValues_WinFormsApp1\KB14595_UltraGrid_SummaryValues_WinFormsApp1\.editorconfig" />
+  </ItemGroup>
+
+</Project>
